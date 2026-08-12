@@ -1,1 +1,5 @@
 S1.1[click here](https://www.hackerrank.com/challenges/java-lambda-expressions/copy-from/479948275)
+S2.1[click here](https://www.hackerrank.com/challenges/java-sort/copy-from/479950697)
+s2.2[click here](https://www.hackerrank.com/challenges/java-sort/copy-from/479950697)
+s3.1[click here](https://www.hackerrank.com/challenges/ctci-comparator-sorting/copy-from/479953794)
+s3.2[click here](https://www.hackerrank.com/challenges/java-comparator/copy-from/479956079)
