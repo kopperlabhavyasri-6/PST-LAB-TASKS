@@ -3,3 +3,7 @@ S2.1[click here](https://www.hackerrank.com/challenges/java-sort/copy-from/47995
 s2.2[click here](https://leetcode.com/problems/sort-array-by-parity/submissions/2103728672/)
 s3.1[click here](https://www.hackerrank.com/challenges/ctci-comparator-sorting/copy-from/479953794)
 s3.2[click here](https://www.hackerrank.com/challenges/java-comparator/copy-from/479956079)
+s4.1[click here](https://leetcode.com/problems/running-sum-of-1d-array/submissions/2103765992/)
+s4.2[click here](https://leetcode.com/problems/richest-customer-wealth/submissions/2103789054/)
+s5.1[click here](https://leetcode.com/problems/squares-of-a-sorted-array/submissions/2103793807/)
+s5.2[click here](https://leetcode.com/problems/find-pivot-index/submissions/2103798439/)
