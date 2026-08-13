@@ -13,3 +13,5 @@ s7.1[click here](https://leetcode.com/problems/remove-element/submissions/210505
 s7.2[click here](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/2105060118/)
 s8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2105066579/)
 s8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2105072604/)
+s9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2105085300/)
+s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2105087949/)
