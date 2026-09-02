@@ -21,19 +21,23 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
 ## Hash Table
 |  |
@@ -43,4 +47,12 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
