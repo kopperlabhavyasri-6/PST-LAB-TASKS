@@ -15,3 +15,23 @@ s8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2105
 s8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2105072604/)
 s9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2105085300/)
 s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2105087949/)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
+## Z Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
+<!---LeetCode Topics End-->
