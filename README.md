@@ -21,6 +21,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
@@ -50,9 +51,18 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
