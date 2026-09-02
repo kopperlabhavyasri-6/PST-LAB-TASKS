@@ -21,6 +21,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
 ## String Matching
 |  |
@@ -34,4 +35,12 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
+## Hash Table
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
