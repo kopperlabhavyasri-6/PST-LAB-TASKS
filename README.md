@@ -25,6 +25,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
+| [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
 ## String Matching
 |  |
 | ------- |
@@ -44,6 +45,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
+| [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,4 +67,8 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
+## Design
+|  |
+| ------- |
+| [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
 <!---LeetCode Topics End-->
