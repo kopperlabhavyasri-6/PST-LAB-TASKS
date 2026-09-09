@@ -46,6 +46,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -72,6 +73,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
 | [1472-design-browser-history](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1472-design-browser-history) |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 ## Array
 |  |
 | ------- |
@@ -92,4 +94,12 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [1472-design-browser-history](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1472-design-browser-history) |
+## Tree
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
+## Depth-First Search
+|  |
+| ------- |
+| [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 <!---LeetCode Topics End-->
