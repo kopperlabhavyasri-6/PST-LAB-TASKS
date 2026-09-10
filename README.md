@@ -23,6 +23,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0459-repeated-substring-pattern) |
 | [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
@@ -44,6 +45,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
@@ -83,6 +85,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0027-remove-element) |
+| [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
@@ -119,6 +122,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 ## Prefix Sum
 |  |
