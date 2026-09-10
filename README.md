@@ -83,6 +83,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | [1472-design-browser-history](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1672-richest-customer-wealth) |
+| [1920-build-array-from-permutation](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1920-build-array-from-permutation) |
 ## Linked List
 |  |
 | ------- |
@@ -120,4 +121,8 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
