@@ -67,6 +67,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
 ## Manacher
 |  |
 | ------- |
@@ -82,6 +83,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
 | [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1470-shuffle-the-array) |
@@ -130,4 +132,8 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1920-build-array-from-permutation) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
