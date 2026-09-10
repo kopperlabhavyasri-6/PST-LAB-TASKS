@@ -55,6 +55,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 ## Boyer–Moore String-Search Algorithm
@@ -78,6 +79,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0027-remove-element) |
 | [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1470-shuffle-the-array) |
