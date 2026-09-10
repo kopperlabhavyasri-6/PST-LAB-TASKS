@@ -56,6 +56,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -77,6 +78,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Array
 |  |
 | ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1472-design-browser-history) |
 ## Linked List
 |  |
@@ -102,4 +104,8 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 |  |
 | ------- |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
+## Sorting
+|  |
+| ------- |
+| [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
