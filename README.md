@@ -78,6 +78,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [1472-design-browser-history](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1480-running-sum-of-1d-array) |
@@ -113,6 +114,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
