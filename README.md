@@ -80,6 +80,7 @@ s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissio
 | ------- |
 | [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
+| [1470-shuffle-the-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1472-design-browser-history) |
 | [1480-running-sum-of-1d-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1672-richest-customer-wealth) |
