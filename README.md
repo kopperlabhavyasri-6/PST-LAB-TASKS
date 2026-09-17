@@ -15,6 +15,18 @@ s8.1[click here](https://leetcode.com/problems/maximum-subarray/submissions/2105
 s8.2[click here](https://leetcode.com/problems/find-the-highest-altitude/submissions/2105072604/)
 s9.1[click here](https://leetcode.com/problems/group-anagrams/submissions/2105085300/)
 s9.2[click here](https://leetcode.com/problems/top-k-frequent-elements/submissions/2105087949/)
+s10.1[click here](https://www.hackerrank.com/challenges/java-dequeue/copy-from/480889123)
+S10.2[click here](https://www.hackerrank.com/challenges/java-hashset/copy-from/482454355)
+S11.1[click here](https://www.hackerrank.com/challenges/java-date-and-time/copy-from/480889808)
+S11.2[click here](https://leetcode.com/problems/number-of-days-between-two-dates/submissions/)
+S12.1[click here](https://leetcode.com/problems/day-of-the-year/submissions/)
+S12.2[click here](https://leetcode.com/problems/day-of-the-week/submissions/)
+S13.1[click here](https://www.hackerrank.com/challenges/java-priority-queue/copy-from/481312921)
+S13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/copy-from/481313517)
+S14.1[click here](https://leetcode.com/problems/largest-number/submissions/)
+S14.2[click here](https://www.hackerrank.com/challenges/java-comparator/copy-from/481313868)
+S15.2[click here](https://leetcode.com/problems/sort-the-people/submissions/)
+
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
