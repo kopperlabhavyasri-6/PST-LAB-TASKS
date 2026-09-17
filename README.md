@@ -181,6 +181,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 | ------- |
 | [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0113-path-sum-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
@@ -188,6 +189,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 | ------- |
 | [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0113-path-sum-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 ## Sorting
@@ -225,5 +227,10 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 | ------- |
 | [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0113-path-sum-ii) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
