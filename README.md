@@ -178,10 +178,12 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
 | [1600-throne-inheritance](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1600-throne-inheritance) |
 ## Sorting
 |  |
@@ -206,4 +208,12 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
