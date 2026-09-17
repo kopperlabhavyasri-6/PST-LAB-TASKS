@@ -155,6 +155,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 | [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
 | [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1470-shuffle-the-array) |
@@ -257,6 +258,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0373-find-k-pairs-with-smallest-sums) |
 ## Bucket Sort
 |  |
 | ------- |
