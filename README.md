@@ -26,6 +26,7 @@ S13.2[click here](https://www.hackerrank.com/challenges/java-arraylist/copy-from
 S14.1[click here](https://leetcode.com/problems/largest-number/submissions/)
 S14.2[click here](https://www.hackerrank.com/challenges/java-comparator/copy-from/481313868)
 S15.2[click here](https://leetcode.com/problems/sort-the-people/submissions/)
+w4-1.1[click here](https://leetcode.com/problems/determine-if-string-halves-are-alike/submissions/)
 
 
 <!---LeetCode Topics Start-->
