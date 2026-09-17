@@ -111,6 +111,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1396-design-underground-system](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1396-design-underground-system) |
@@ -153,6 +154,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 | [0027-remove-element](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
 | [0724-find-pivot-index](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0724-find-pivot-index) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/1470-shuffle-the-array) |
@@ -201,6 +203,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
 | [0977-squares-of-a-sorted-array](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0977-squares-of-a-sorted-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Prefix Sum
@@ -221,6 +224,7 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -249,4 +253,20 @@ w8-5.10[click here](https://www.hackerrank.com/challenges/java-exception-handlin
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/kopperlabhavyasri-6/PST-LAB-TASKS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
